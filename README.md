@@ -1,17 +1,30 @@
-# portfolio_jvmd
+# Portfólio de Dados
 
-A new Flutter project.
+Portfólio de **Analista de Dados** desenvolvido em Flutter Web e publicado no GitHub Pages. O projeto em destaque é o **Painel de Universidade Corporativa**, que usa SQL, Python, Google Cloud (BigQuery) e Power BI.
 
-## Getting Started
+**Acesse o site:** https://moraiisdev.github.io/portfolio_flutter/
 
-This project is a starting point for a Flutter application.
+> Todos os projetos, dados e números exibidos são fictícios e têm fins acadêmicos.
 
-A few resources to get you started if this is your first Flutter project:
+## Seções
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Projeto em destaque, com prévia do painel
+- O problema e a solução
+- Arquitetura e tecnologias
+- Características principais
+- Resultados e lições aprendidas
+- Outros estudos
+- Sobre e contato
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias
+
+- Flutter (Web) e Dart
+- Pacotes: `google_fonts` e `url_launcher`
+- Hospedagem: GitHub Pages (branch `gh-pages`)
+
+## Como rodar localmente
+
+```bash
+flutter pub get
+flutter run -d chrome
+```
